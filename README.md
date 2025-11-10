@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Damox101za</h1>
+<h1 align="center">Hi 👋, I'm Hilton Kholokholo</h1>
 <h3 align="center">Aspiring Computer Scientist | IT Asset Specialist | Problem Solver from South Africa 🇿🇦</h3>
 
 ---
