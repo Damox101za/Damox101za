@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hilton Kholokholo</h1>
-<h3 align="center">Aspiring Computer Scientist | IT Asset Specialist | Problem Solver from South Africa 🇿🇦</h3>
+<h3 align="center">Aspiring Computer Scientist | IT Asset Specialist | Problem Solver | South Africa</h3>
 
 ---
 
