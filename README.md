@@ -20,9 +20,16 @@
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Damox101za&show_icons=true&theme=tokyonight" alt="GitHub stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Damox101za&layout=compact&theme=tokyonight" alt="Top languages" height="160"/>
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Damox101za&show_icons=true&theme=tokyonight"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Damox101za&layout=compact&theme=tokyonight"
+    height="165"
+  />
 </p>
 
 ---
