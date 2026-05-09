@@ -5,7 +5,7 @@
 
 ### 💡 About Me
 - 👀 I’m interested in **Programming and Computer Science**  
-- 🌱 I’m currently learning **CS50 and Python**  
+- 🌱 I’m currently learning **Higher Certificate in Information Technology**  
 - 💞️ I’m looking to collaborate on anything that involves **solving real-world problems**  
 - 📫 How to reach me: **damox101za@gmail.com** | **hiltonkholokholo@icloud.com**  
 - ⚡ Fun fact: *“Nothing is impossible — but everything has its limits.”*  
