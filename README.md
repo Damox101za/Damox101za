@@ -87,6 +87,14 @@ fun_fact: "Nothing is impossible — but everything has its limits."
 
 ---
 
+## 📦 3D Contribution Calendar
+
+<p align="center">
+  <img src="https://github.com/Damox101za/Damox101za/blob/output/profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
+
+---
+
 ## 🚀 Featured Projects
 
 <p align="center">
