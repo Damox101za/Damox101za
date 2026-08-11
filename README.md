@@ -113,6 +113,14 @@ Contact:
 
 ---
 
+## 🧊 3D Contribution Graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" style="width: 100%; border-radius: 12px;"/>
+</p>
+
+---
+
 ## 📦 Contributions Overview
 
 <p align="center">
@@ -129,9 +137,11 @@ Contact:
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|-----------|------|
-| **Portfolio Website** | Personal portfolio showcasing projects, skills, and experience | HTML, CSS, JavaScript | [View](https://github.com/Damox101za?tab=repositories) |
-| **System Tools** | Command-line utilities & automation scripts | Python, Bash, Go | [View](https://github.com/Damox101za?tab=repositories) |
-| **Learning Projects** | Educational projects demonstrating CS fundamentals | Python, Java, C | [View](https://github.com/Damox101za?tab=repositories) |
+| **hilton-cv** | My personal CV / portfolio site ([live](https://hilton-cv.vercel.app)) | JavaScript | [View](https://github.com/Damox101za/hilton-cv) |
+| **index_2.0** | Reads an Excel sheet and prints each record to its own PDF with header/footer images | Java | [View](https://github.com/Damox101za/index_2.0) |
+| **weeklogforXperien** | Weekly log tooling for Xperien | Python | [View](https://github.com/Damox101za/weeklogforXperien) |
+| **xperien_technical_support** | Tech support tooling for Xperien | TypeScript | [View](https://github.com/Damox101za/xperien_technical_support) |
+| **ApplesOnly** | Node.js web app | JavaScript | [View](https://github.com/Damox101za/ApplesOnly) |
 
 ### 🔗 Quick Links to Repositories
 
