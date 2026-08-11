@@ -15,6 +15,19 @@
   <a href="mailto:damox101za@gmail.com">
     <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://damox101za.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## ✨ Portfolio
+
+<p align="center">
+  A live React site with animated hero effects &mdash; particle-formed name text and an electric-glow CTA.
+  <br />
+  <a href="https://damox101za.github.io/portfolio/"><strong>damox101za.github.io/portfolio »</strong></a>
 </p>
 
 ---
@@ -185,6 +198,9 @@ Contact:
   </a>
   <a href="mailto:hiltonkholokholo@icloud.com" title="iCloud Mail">
     <img src="https://img.shields.io/badge/iCloud%20Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
+  </a>
+  <a href="https://damox101za.github.io/portfolio/" title="Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="https://github.com/Damox101za" title="GitHub Profile">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
