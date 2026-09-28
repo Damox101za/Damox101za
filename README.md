@@ -27,7 +27,7 @@
 <p align="center">
   A live React site with animated hero effects &mdash; particle-formed name text and an electric-glow CTA.
   <br />
-  <a href="https://damox101za.github.io/portfolio/"><strong>damox101za.github.io/portfolio »</strong></a>
+  <a href="https://hilton-cv.vercel.app/"><strong>damox101za.github.io/portfolio »</strong></a>
 </p>
 
 ---
