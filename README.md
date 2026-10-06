@@ -1,227 +1,107 @@
-<!-- Animated header wave -->
+<!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hilton%20Kholokholo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Computer%20Scientist%20%7C%20IT%20Asset%20Specialist%20%7C%20Problem%20Solver&descAlignY=60&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hilton%20Kholokholo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Technician%20%7C%20Networks%20%26%20Infrastructure%20%7C%20Builder&descAlignY=60&descSize=16&animation=fadeIn" alt="Hilton Kholokholo header" />
 </p>
 
-<!-- Animated typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hello+World+%F0%9F%91%8B+I'm+Hilton;Aspiring+Computer+Scientist+%F0%9F%92%BB;IT+Asset+Specialist+%F0%9F%96%A5%EF%B8%8F;Problem+Solver+%F0%9F%94%A7;South+Africa+%F0%9F%87%BF%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IT+Support+Technician+%40+Xperien;Networks%2C+Hardware+%26+Data+Destruction;Building+tools+that+solve+real+problems;Johannesburg%2C+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" alt="Typing SVG" />
 </p>
 
-<!-- Badges row -->
 <p align="center">
+  <a href="https://hilton-cv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:damox101za@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://komarev.com/ghpvc/?username=Damox101za&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Damox101za?style=for-the-badge&color=7c3aed&labelColor=1e1b4b&label=FOLLOWERS" alt="Followers" />
-  <a href="mailto:damox101za@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL%20ME-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://damox101za.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/PORTFOLIO-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" />
-  </a>
-</p>
-
----
-
-## ✨ Portfolio
-
-<p align="center">
-  A live React site with animated hero effects &mdash; particle-formed name text and an electric-glow CTA.
-  <br />
-  <a href="https://hilton-cv.vercel.app/"><strong>damox101za.github.io/portfolio »</strong></a>
 </p>
 
 ---
 
 ## 💡 About Me
 
-I'm **Hilton Kholokholo**, an IT Asset Specialist from South Africa with a passion for Computer Science and problem-solving. Currently pursuing a **Higher Certificate in Information Technology**, I'm dedicated to building meaningful solutions and expanding my technical expertise.
+I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working across enterprise support, network infrastructure, hardware troubleshooting and secure data destruction. Outside the day job I build software that turns the problems I see at work into tools.
 
-```yaml
-🎯 Current Role:        IT Asset Specialist
-🚀 Future Goal:         Full-Stack Computer Scientist
-📚 Learning:            Higher Certificate in Information Technology
-🌍 Location:            South Africa 🇿🇦
-💼 Work Style:          Detail-oriented, collaborative, and results-driven
+- 🎓 **Higher Certificate in IT (NQF 5)** — Mancosa, passed with **Distinction**
+- 🌐 **Cisco Networking Academy** — networking and cybersecurity coursework
+- 🛠️ **Day to day:** UniFi, Juniper, Dell hardware, Avaya, SFP fibre switching, isolated networks, device decommissioning and data sanitisation
+- 🎯 **Open to:** Tier 3 / Senior Technical Support roles in Johannesburg — corporate and FinTech
 
-Key Interests:
-  ✨ Full-Stack Development
-  🔐 Cybersecurity & System Administration
-  🤖 Problem-solving & Algorithm Design
-  🛠️ Open Source Contributions
-  📊 Data Structures & Algorithms
-  🌐 Web Development & Cloud Technologies
-
-Philosophy: "Nothing is impossible — but everything has its limits."
-
-Contact:
-  📧 damox101za@gmail.com
-  📱 hiltonkholokholo@icloud.com
-```
+> *"Nothing is impossible — but everything has its limits."*
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Skills
 
-### Languages & Frameworks
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,go,c,java,html,css,bash&theme=dark&perline=8" />
+**Infrastructure & Support**
+
+<p>
+  <img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="UniFi"/>
+  <img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white" alt="Juniper"/>
+  <img src="https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=dell&logoColor=white" alt="Dell"/>
+  <img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco NetAcad"/>
+  <img src="https://img.shields.io/badge/Fibre%20%2F%20SFP-444444?style=flat-square" alt="Fibre/SFP"/>
+  <img src="https://img.shields.io/badge/Data%20Sanitisation-444444?style=flat-square" alt="Data Sanitisation"/>
+  <img src="https://img.shields.io/badge/WinPE-0078D6?style=flat-square&logo=windows&logoColor=white" alt="WinPE"/>
 </p>
 
-### Tools & Platforms
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,vscode,github,npm,docker,figma&theme=dark&perline=7" />
+**Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,nodejs,html,css,bash&theme=dark&perline=10" alt="Development stack" />
 </p>
 
-### Badge Display
-<p align="center">
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-  
-  <!-- Web Development -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  
-  <!-- Tools & Systems -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</p>
+**Tools**
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=Damox101za&show_icons=true&theme=tokyonight&border_radius=12&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"
-    height="170"
-    alt="GitHub Stats"
-  />
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Damox101za&layout=compact&theme=tokyonight&border_radius=12&hide_border=true&bg_color=0D1117&langs_count=10"
-    height="170"
-    alt="Top Languages"
-  />
-</p>
-
----
-
-## 🔥 Streak & Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Damox101za&theme=tokyonight-duo&hide_border=true&border_radius=12&background=0D1117&stroke=7c3aed&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa" alt="GitHub Streak"/>
-</p>
-
-<!-- Activity Graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Damox101za&theme=tokyo-night&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ff6b6b&area=true&hide_border=true&radius=12" alt="Activity Graph" style="width: 100%; border-radius: 12px;"/>
-</p>
-
----
-
-## 🧊 3D Contribution Graph
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" style="width: 100%; border-radius: 12px;"/>
-</p>
-
----
-
-## 📦 Contributions Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Damox101za&theme=tokyonight" alt="Profile Details" style="width: 100%; border-radius: 12px;"/>
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&theme=dark" alt="Tools and platforms" />
 </p>
 
 ---
 
 ## 🚀 Featured Projects
 
-<div align="center">
+| Project | What it does | Stack |
+|---|---|---|
+| [**hilton-cv**](https://github.com/Damox101za/hilton-cv) | Personal portfolio with particle-formed name text and animated hero — [live site](https://hilton-cv.vercel.app/) | React, JavaScript |
+| [**ApplesOnly**](https://github.com/Damox101za/ApplesOnly) | Personal habits, journal and goals tracker | Node.js, JavaScript |
+| [**index_2.0**](https://github.com/Damox101za/index_2.0) | Reads an Excel sheet and generates one PDF per record, with header and footer images | Java |
+| [**xperien_technical_support**](https://github.com/Damox101za/xperien_technical_support) | Technical support tooling | TypeScript |
+| [**weeklogforXperien**](https://github.com/Damox101za/weeklogforXperien) | Weekly work-log tooling | Python |
 
-### 📌 My Best Work
-
-| Project | Description | Tech Stack | Link |
-|---------|-------------|-----------|------|
-| **hilton-cv** | My personal CV / portfolio site ([live](https://hilton-cv.vercel.app)) | JavaScript | [View](https://github.com/Damox101za/hilton-cv) |
-| **index_2.0** | Reads an Excel sheet and prints each record to its own PDF with header/footer images | Java | [View](https://github.com/Damox101za/index_2.0) |
-| **weeklogforXperien** | Weekly log tooling for Xperien | Python | [View](https://github.com/Damox101za/weeklogforXperien) |
-| **xperien_technical_support** | Tech support tooling for Xperien | TypeScript | [View](https://github.com/Damox101za/xperien_technical_support) |
-| **ApplesOnly** | Node.js web app | JavaScript | [View](https://github.com/Damox101za/ApplesOnly) |
-
-### 🔗 Quick Links to Repositories
-
-</div>
+**Currently building:** a WinPE data sanitisation app for device decommissioning · an IT asset register (Next.js) · an anti-money-laundering detection system (Python ML + Next.js dashboard)
 
 <p align="center">
-  <a href="https://github.com/Damox101za?tab=repositories&sort=stars">
-    <img src="https://img.shields.io/badge/View%20All%20Repositories-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="View All Repos" />
-  </a>
-  <a href="https://github.com/Damox101za?tab=stars">
-    <img src="https://img.shields.io/badge/Starred%20Repos-a78bfa?style=for-the-badge&logo=star&logoColor=white" alt="Starred Repos" />
-  </a>
-</p>
-
-> 💬 *More exciting projects coming soon — stay tuned!*
-
----
-
-## 📈 Additional Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Damox101za&theme=tokyonight" alt="Repos per Language" style="width: 48%; display: inline-block; margin: 5px;"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Damox101za&theme=tokyonight" alt="Most Commit Language" style="width: 48%; display: inline-block; margin: 5px;"/>
-</p>
-
----
-
-## 💬 Dev Quote
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</p>
-
----
-
-## 🌍 Connect With Me
-
-<p align="center">
-  <a href="mailto:damox101za@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="mailto:hiltonkholokholo@icloud.com" title="iCloud Mail">
-    <img src="https://img.shields.io/badge/iCloud%20Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white"/>
-  </a>
-  <a href="https://damox101za.github.io/portfolio/" title="Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Damox101za" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/Damox101za?tab=followers" title="Followers">
-    <img src="https://img.shields.io/badge/Follow%20Me-7c3aed?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/Damox101za?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/badge/All%20Repositories-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
   </a>
 </p>
 
 ---
 
-<!-- Animated footer wave -->
+## 📊 GitHub Activity
+
+GitHub metrics are generated daily via the workflow in `.github/workflows/metrics.yml`.
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=%F0%9F%9A%80%20Keep%20learning.%20Keep%20building.%20Never%20give%20up.&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" />
+  <a href="https://github.com/Damox101za/Damox101za/actions/workflows/metrics.yml">
+    <img src="https://img.shields.io/badge/GitHub%20Metrics-View%20Workflow-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Metrics Workflow" />
+  </a>
 </p>
 
-<!-- Fun Easter Egg -->
 <p align="center">
-  <sub>💫 <strong>Did you know?</strong> Every expert was once a beginner. Keep pushing forward!</sub>
+  <a href="https://github.com/Damox101za/Damox101za/actions/workflows/3d-contrib.yml">
+    <img src="https://img.shields.io/badge/3D%20Contrib-View%20Workflow-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="3D Contrib Workflow" />
+  </a>
 </p>
 
-<!---
-Damox101za/Damox101za is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
---->
+---
+
+## 🌍 Connect
+
+<p align="center">
+  <a href="mailto:damox101za@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:hiltonkholokholo@icloud.com"><img src="https://img.shields.io/badge/iCloud%20Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Mail"/></a>
+  <a href="https://hilton-cv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Keep%20learning.%20Keep%20building.&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" alt="Footer wave" />
+</p>
