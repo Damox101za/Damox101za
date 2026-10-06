@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hilton Kholokholo</h1>
-<h3 align="center">IT Support Technician | Networks & Infrastructure</h3>
+<h3 align="center">IT Support Technician | Networks &amp; Infrastructure</h3>
 
 <p align="center">
   <a href="https://hilton-cv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
