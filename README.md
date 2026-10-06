@@ -1,4 +1,7 @@
 <!-- Header -->
+<h1 align="center">Hilton Kholokholo</h1>
+<h3 align="center">IT Support Technician | Networks & Infrastructure</h3>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hilton%20Kholokholo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Technician%20%7C%20Networks%20%26%20Infrastructure%20%7C%20Builder&descAlignY=60&descSize=16&animation=fadeIn" alt="Hilton Kholokholo header" />
 </p>
@@ -17,11 +20,11 @@
 
 ## 💡 About Me
 
-I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working across enterprise support, network infrastructure, hardware troubleshooting and secure data destruction. Outside the day job I build software that turns the problems I see at work into tools.
+I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working across enterprise support, network infrastructure, hardware troubleshooting, and secure data destruction. Outside the day job I build software that turns real-world operational problems into practical tools.
 
 - 🎓 **Higher Certificate in IT (NQF 5)** — Mancosa, passed with **Distinction**
 - 🌐 **Cisco Networking Academy** — networking and cybersecurity coursework
-- 🛠️ **Day to day:** UniFi, Juniper, Dell hardware, Avaya, SFP fibre switching, isolated networks, device decommissioning and data sanitisation
+- 🛠️ **Day to day:** UniFi, Juniper, Dell hardware, Avaya, SFP fibre switching, isolated networks, device decommissioning, and data sanitisation
 - 🎯 **Open to:** Tier 3 / Senior Technical Support roles in Johannesburg — corporate and FinTech
 
 > *"Nothing is impossible — but everything has its limits."*
@@ -30,7 +33,7 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
 
 ## 🧠 Skills
 
-**Infrastructure & Support**
+### Infrastructure & Support
 
 <p>
   <img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="UniFi"/>
@@ -42,13 +45,13 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
   <img src="https://img.shields.io/badge/WinPE-0078D6?style=flat-square&logo=windows&logoColor=white" alt="WinPE"/>
 </p>
 
-**Development**
+### Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,nodejs,html,css,bash&theme=dark&perline=10" alt="Development stack" />
 </p>
 
-**Tools**
+### Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&theme=dark" alt="Tools and platforms" />
@@ -78,7 +81,7 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
 
 ## 📊 GitHub Activity
 
-GitHub metrics are generated daily via the workflow in `.github/workflows/metrics.yml`.
+GitHub metrics are generated daily via workflow automation.
 
 <p align="center">
   <a href="https://github.com/Damox101za/Damox101za/actions/workflows/metrics.yml">
