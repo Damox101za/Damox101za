@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hilton Kholokholo</h1>
-<h3 align="center">IT Support Technician | Networks & Infrastructure</h3>
+<h3 align="center">IT Support Technician &#124; Networks &amp; Infrastructure</h3>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hilton%20Kholokholo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Technician%20%7C%20Networks%20%26%20Infrastructure%20%7C%20Builder&descAlignY=60&descSize=16&animation=fadeIn" alt="Hilton Kholokholo header" />
@@ -33,7 +33,7 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
 
 ## 🧠 Skills
 
-### Infrastructure & Support
+### Infrastructure &#124; Support
 
 <p>
   <img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="UniFi"/>
@@ -69,7 +69,7 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
 | [**xperien_technical_support**](https://github.com/Damox101za/xperien_technical_support) | Technical support tooling | TypeScript |
 | [**weeklogforXperien**](https://github.com/Damox101za/weeklogforXperien) | Weekly work-log tooling | Python |
 
-**Currently building:** a WinPE data sanitisation app for device decommissioning · an IT asset register (Next.js) · an anti-money-laundering detection system (Python ML + Next.js dashboard)
+**Currently building:** a WinPE data sanitisation app for device decommissioning · an IT asset register (Next.js) · an anti-money-laundering detection system (Python ML &#124; Next.js dashboard)
 
 <p align="center">
   <a href="https://github.com/Damox101za?tab=repositories&sort=updated">
