@@ -3,11 +3,11 @@
 <h3 align="center">IT Support Technician &#124; Networks &amp; Infrastructure</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hilton%20Kholokholo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Technician%20%7C%20Networks%20%26%20Infrastructure%20%7C%20Builder&descAlignY=60&descSize=16&animation=fadeIn" alt="Hilton Kholokholo header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hilton%20Kholokholo&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=IT%20Support%20Technician%20%7C%20Networks%20%26%20Infrastructure%20%7C%20Builder&descAlignY=60&descSize=16&animation=fadeIn" alt="Hilton Kholokholo — IT Support Technician &#124; Networks &amp; Infrastructure" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IT+Support+Technician+%40+Xperien;Networks%2C+Hardware+%26+Data+Destruction;Building+tools+that+solve+real+problems;Johannesburg%2C+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=IT+Support+Technician+%40+Xperien;Networks%2C+Hardware+%26+Data+Destruction;Building+tools+that+solve+real+problems;Johannesburg%2C+South+Africa+%F0%9F%87%BF%F0%9F%87%A6" alt="IT Support Technician at Xperien" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
 
 ## 🧠 Skills
 
-### Infrastructure &#124; Support
+### Infrastructure and Support
 
 <p>
   <img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="UniFi"/>
@@ -48,13 +48,13 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
 ### Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,nodejs,html,css,bash&theme=dark&perline=10" alt="Development stack" />
+  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,nodejs,html,css,bash&theme=dark&perline=10" alt="Python, TypeScript, JavaScript, Java, React, Next.js, Node.js, HTML, CSS, Bash" />
 </p>
 
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&theme=dark" alt="Tools and platforms" />
+  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&theme=dark" alt="Linux, Git, GitHub, VS Code, Docker" />
 </p>
 
 ---
@@ -69,7 +69,7 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
 | [**xperien_technical_support**](https://github.com/Damox101za/xperien_technical_support) | Technical support tooling | TypeScript |
 | [**weeklogforXperien**](https://github.com/Damox101za/weeklogforXperien) | Weekly work-log tooling | Python |
 
-**Currently building:** a WinPE data sanitisation app for device decommissioning · an IT asset register (Next.js) · an anti-money-laundering detection system (Python ML &#124; Next.js dashboard)
+**Currently building:** a WinPE data sanitisation app for device decommissioning · an IT asset register (Next.js) · an anti-money-laundering detection system (Python ML with a Next.js dashboard)
 
 <p align="center">
   <a href="https://github.com/Damox101za?tab=repositories&sort=updated">
@@ -81,18 +81,14 @@ I'm an **IT Support Technician at Xperien (Pty) Ltd** in Randburg, working acros
 
 ## 📊 GitHub Activity
 
-GitHub metrics are generated daily via workflow automation.
-
+<!-- Both images are generated daily by the workflows in .github/workflows/.
+     They show as broken until each workflow has run once. -->
 <p align="center">
-  <a href="https://github.com/Damox101za/Damox101za/actions/workflows/metrics.yml">
-    <img src="https://img.shields.io/badge/GitHub%20Metrics-View%20Workflow-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="Metrics Workflow" />
-  </a>
+  <img src="./github-metrics.svg" alt="GitHub Metrics" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/Damox101za/Damox101za/actions/workflows/3d-contrib.yml">
-    <img src="https://img.shields.io/badge/3D%20Contrib-View%20Workflow-7c3aed?style=for-the-badge&logo=github&logoColor=white" alt="3D Contrib Workflow" />
-  </a>
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" width="100%" />
 </p>
 
 ---
@@ -106,5 +102,5 @@ GitHub metrics are generated daily via workflow automation.
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Keep%20learning.%20Keep%20building.&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" alt="Footer wave" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Keep%20learning.%20Keep%20building.&fontSize=18&fontColor=a78bfa&fontAlignY=65&animation=fadeIn" alt="Footer" />
 </p>
