@@ -24,6 +24,14 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           games: "pacman"
 
+      - name: Check out repo for the smoothing script
+        uses: actions/checkout@v4
+        with:
+          path: repo
+
+      - name: Smooth out animation timing
+        run: python3 repo/.github/scripts/smooth_pacman.py dist/*.svg
+
       - name: Push SVGs to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:

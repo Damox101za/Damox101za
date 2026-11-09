@@ -33,32 +33,37 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 
 ---
 
-## 🧠 Skills
+## 🧠 Tech Stack
 
-**Infrastructure and Support**
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/UniFi-0559C9?style=flat-square&logo=ubiquiti&logoColor=white" alt="UniFi"/>
-  <img src="https://img.shields.io/badge/Juniper-84B135?style=flat-square&logo=junipernetworks&logoColor=white" alt="Juniper"/>
-  <img src="https://img.shields.io/badge/Dell-007DB8?style=flat-square&logo=dell&logoColor=white" alt="Dell"/>
-  <img src="https://img.shields.io/badge/Avaya-CC0000?style=flat-square" alt="Avaya"/>
-  <img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=flat-square&logo=cisco&logoColor=white" alt="Cisco NetAcad"/>
-  <img src="https://img.shields.io/badge/Fibre%2FSFP-444444?style=flat-square" alt="Fibre/SFP"/>
-  <img src="https://img.shields.io/badge/Data%20Sanitisation-444444?style=flat-square" alt="Data Sanitisation"/>
-  <img src="https://img.shields.io/badge/WinPE-0078D6?style=flat-square&logo=windows&logoColor=white" alt="WinPE"/>
-</p>
+#### 🌐 Networking
 
-**Development**
+<img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="UniFi"/>
+<img src="https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper"/>
+<img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco NetAcad"/>
+<img src="https://img.shields.io/badge/Fibre%20%2F%20SFP-F59E0B?style=for-the-badge" alt="Fibre / SFP"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,java,react,nextjs,nodejs,html,css,bash&theme=dark&perline=10" alt="Development languages" />
-</p>
+#### 🖥️ Hardware & Endpoint
 
-**Tools**
+<img src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell"/>
+<img src="https://img.shields.io/badge/Avaya-CC0000?style=for-the-badge" alt="Avaya"/>
+<img src="https://img.shields.io/badge/WinPE-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="WinPE"/>
+<img src="https://img.shields.io/badge/Data%20Sanitisation-10B981?style=for-the-badge" alt="Data Sanitisation"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,git,github,vscode,docker&theme=dark" alt="Development tools" />
-</p>
+#### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=python,java,ts,js,bash&theme=dark" alt="Python, Java, TypeScript, JavaScript, Bash"/>
+
+#### ⚛️ Frameworks & Web
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,html,css&theme=dark" alt="React, Next.js, Node.js, HTML, CSS"/>
+
+#### 🛠️ Tools & Platforms
+
+<img src="https://skillicons.dev/icons?i=linux,windows,git,github,vscode,docker&theme=dark" alt="Linux, Windows, Git, GitHub, VS Code, Docker"/>
+
+</div>
 
 ---
 
