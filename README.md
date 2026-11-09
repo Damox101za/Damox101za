@@ -100,6 +100,18 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 
 ---
 
+## 👾 Pac-Man Eats My Commits
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/output/pacman-contribution-graph.svg" />
+    <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Damox101za/damox101za/output/pacman-contribution-graph.svg" />
+  </picture>
+</p>
+
+---
+
 ## 🌍 Connect
 
 <p align="center">
