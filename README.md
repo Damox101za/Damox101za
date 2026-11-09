@@ -71,7 +71,6 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**hilton-cv**](https://github.com/Damox101za/hilton-cv) | Personal portfolio with particle-formed name text and an animated hero | React, JavaScript |
 | [**ApplesOnly**](https://github.com/Damox101za/ApplesOnly) | Personal habits, journal and goals tracker | Node.js, JavaScript |
 | [**index_2.0**](https://github.com/Damox101za/index_2.0) | Reads an Excel sheet and generates one PDF per record, with header and footer images | Java |
 | [**xperien_technical_support**](https://github.com/Damox101za/xperien_technical_support) | Technical support tooling | TypeScript |
