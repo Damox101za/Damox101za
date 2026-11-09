@@ -1,12 +1,14 @@
 name: Pac-Man Contribution Graph
 
+# Switched off: the Pac-Man section is hidden in the README.
+# To turn it back on, restore the schedule and push triggers:
+#   schedule:
+#     - cron: "30 18 * * *"   # Runs daily at 18:30 UTC
+#   push:
+#     branches:
+#       - main
 on:
-  schedule:
-    - cron: "30 18 * * *"   # Runs daily at 18:30 UTC
-  workflow_dispatch:         # Allows manual trigger from GitHub Actions tab
-  push:
-    branches:
-      - main
+  workflow_dispatch:         # Manual runs only, from the GitHub Actions tab
 
 jobs:
   generate:
