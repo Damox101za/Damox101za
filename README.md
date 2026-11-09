@@ -85,7 +85,9 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 
 ---
 
-## 🦖 Commit Kaiju
+## 📊 My Activity
+
+### 🦖 Commit Kaiju
 
 <p align="center">
   <picture>
@@ -95,9 +97,7 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
   </picture>
 </p>
 
----
-
-## 🛰️ Network Activity
+### 🛰️ Network Activity
 
 <p align="center">
   <picture>
@@ -114,8 +114,17 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
   <img src="https://img.shields.io/badge/Fibre%20%2F%20SFP-F59E0B?style=for-the-badge" alt="Fibre / SFP"/>
 </p>
 
-<!-- Pac-Man graph hidden for now. Remove these comment markers to show it again.
 ---
+
+## 🌍 Connect
+
+<p align="center">
+  <a href="mailto:damox101za@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:hiltonkholokholo@icloud.com"><img src="https://img.shields.io/badge/iCloud%20Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Mail"/></a>
+  <a href="https://vusidigital.co.za/about"><img src="https://img.shields.io/badge/vusidigital.co.za-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="vusidigital.co.za"/></a>
+</p>
+
+<!-- Hidden extras. To show one again, move it above Connect and remove these comment markers.
 
 ## 👾 Pac-Man Eats My Commits
 
@@ -127,13 +136,3 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
   </picture>
 </p>
 -->
-
----
-
-## 🌍 Connect
-
-<p align="center">
-  <a href="mailto:damox101za@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="mailto:hiltonkholokholo@icloud.com"><img src="https://img.shields.io/badge/iCloud%20Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Mail"/></a>
-  <a href="https://vusidigital.co.za/about"><img src="https://img.shields.io/badge/vusidigital.co.za-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="vusidigital.co.za"/></a>
-</p>
