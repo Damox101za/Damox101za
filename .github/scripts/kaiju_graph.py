@@ -22,7 +22,7 @@ COL, BW = 14, 11            # building pitch and width
 FLOOR, FGAP = 6, 1          # floor height and gap between floors
 LEFT = 24
 GROUND = 132                # y of the street
-PX = 4                      # kaiju pixel size
+PX = 5                      # kaiju pixel size
 WALK_S, HOLD_S, REBUILD_S = 18.0, 2.0, 1.5
 TOTAL_S = WALK_S + HOLD_S + REBUILD_S
 
