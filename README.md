@@ -2,13 +2,13 @@
 <h1 align="center">Hi, I'm Hilton Kholokholo 👋</h1>
 
 <p align="center">
-  <a href="https://hilton-cv.vercel.app/">
+  <a href="https://vusidigital.co.za/about">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=IT+Support+Technician;Networks+%26+Infrastructure;Building+tools+that+solve+real+ops+problems;Open+to+Tier+3+%2F+Senior+Support+roles" alt="Typing intro" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://hilton-cv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://vusidigital.co.za/about"><img src="https://img.shields.io/badge/vusidigital.co.za-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="vusidigital.co.za" /></a>
   <a href="mailto:damox101za@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <img src="https://img.shields.io/badge/Johannesburg%2C%20ZA-444444?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Johannesburg, South Africa" />
   <img src="https://komarev.com/ghpvc/?username=Damox101za&style=for-the-badge&color=7c3aed&label=Profile+Views" alt="Profile views" />
@@ -122,5 +122,5 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 <p align="center">
   <a href="mailto:damox101za@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="mailto:hiltonkholokholo@icloud.com"><img src="https://img.shields.io/badge/iCloud%20Mail-3693F3?style=for-the-badge&logo=icloud&logoColor=white" alt="iCloud Mail"/></a>
-  <a href="https://hilton-cv.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://vusidigital.co.za/about"><img src="https://img.shields.io/badge/vusidigital.co.za-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white" alt="vusidigital.co.za"/></a>
 </p>
