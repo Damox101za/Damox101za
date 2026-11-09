@@ -105,6 +105,18 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 
 ---
 
+## 🛰️ Network Activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/network-output/network-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/network-output/network-graph-light.svg" />
+    <img alt="My contributions as a network: a data packet travels from a core switch through each active day, lighting it up" src="https://raw.githubusercontent.com/Damox101za/damox101za/network-output/network-graph-dark.svg" />
+  </picture>
+</p>
+
+---
+
 ## 👾 Pac-Man Eats My Commits
 
 <p align="center">

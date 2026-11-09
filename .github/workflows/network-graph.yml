@@ -1,0 +1,38 @@
+name: Network Contribution Graph
+
+on:
+  schedule:
+    - cron: "45 18 * * *"   # Runs daily at 18:45 UTC
+  workflow_dispatch:         # Allows manual trigger from GitHub Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    name: Generate Network Contribution Graph
+    timeout-minutes: 10
+
+    permissions:
+      contents: write        # Required to push the SVGs to the network-output branch
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build network SVGs from contribution data
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 .github/scripts/network_graph.py "${{ github.repository_owner }}" dist
+
+      - name: Publish SVGs to the network-output branch
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          cd dist
+          git init -q -b network-output
+          git config user.email "damox101za@gmail.com"
+          git config user.name "Damox101za"
+          git add -A
+          git commit -q -m "Update network contribution graph"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" network-output
