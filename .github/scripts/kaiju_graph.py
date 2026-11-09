@@ -51,15 +51,15 @@ MOUTH = (16 * PX, 4 * PX + 1)
 THEMES = {
     "dark": {
         "bg": "#0d1117", "star": "#30363d", "ground": "#30363d", "lot": "#21262d",
-        "levels": ["#3b1f78", "#5b2bbf", "#8b5cf6", "#c4b5fd"],
-        "window": "#fde68a", "text": "#8b949e", "title": "#e6edf3",
+        "levels": ["#4c2a9a", "#5b2bbf", "#8b5cf6", "#c4b5fd"],
+        "window": "#fde68a", "dim_window": "#a78bfa", "text": "#8b949e", "title": "#e6edf3",
         "B": "#7c3aed", "D": "#4c1d95", "S": "#22d3ee", "E": "#fde68a",
         "W": "#f8fafc", "L": "#a78bfa", "breath": "#22d3ee", "dust": "#6e7681",
     },
     "light": {
         "bg": "#ffffff", "star": "#eaeef2", "ground": "#d0d7de", "lot": "#ebedf0",
         "levels": ["#ddd6fe", "#a78bfa", "#7c3aed", "#4c1d95"],
-        "window": "#f59e0b", "text": "#57606a", "title": "#1f2328",
+        "window": "#f59e0b", "dim_window": "#7c3aed", "text": "#57606a", "title": "#1f2328",
         "B": "#7c3aed", "D": "#4c1d95", "S": "#0891b2", "E": "#fde047",
         "W": "#ffffff", "L": "#c4b5fd", "breath": "#06b6d4", "dust": "#afb8c1",
     },
@@ -170,9 +170,10 @@ def build(weeks, theme) -> str:
             fy = GROUND - (f + 1) * (FLOOR + FGAP)
             out.append(f'<rect x="{bx}" y="{fy}" width="{BW}" height="{FLOOR}" rx="1" '
                        f'fill="{theme["levels"][lvl - 1]}"/>')
-            if lvl >= 3:
-                out.append(f'<rect x="{bx + 2}" y="{fy + 2}" width="2" height="2" fill="{theme["window"]}"/>'
-                           f'<rect x="{bx + 7}" y="{fy + 2}" width="2" height="2" fill="{theme["window"]}"/>')
+            # Windows: every floor has some, busier days have more and brighter ones.
+            lit = theme["window"] if lvl >= 3 else theme["dim_window"]
+            for wx in ((4.5,) if lvl == 1 else (2, 7)):
+                out.append(f'<rect x="{bx + wx}" y="{fy + 2}" width="2" height="2" fill="{lit}"/>')
         if len(floors) >= 6:
             out.append(f'<rect x="{bx + BW / 2 - 0.5}" y="{GROUND - h - 6}" width="1" height="6" '
                        f'fill="{theme["levels"][-1]}"/>')
