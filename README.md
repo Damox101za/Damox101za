@@ -115,6 +115,7 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
   </picture>
 </p>
 
+<!-- Pac-Man graph hidden for now. Remove these comment markers to show it again.
 ---
 
 ## 👾 Pac-Man Eats My Commits
@@ -126,6 +127,7 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
     <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/Damox101za/damox101za/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
+-->
 
 ---
 
