@@ -92,13 +92,13 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 
 ---
 
-## 📊 Contributions in 3D
+## 🦖 Commit Kaiju
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season.svg" />
-    <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/graphs/kaiju-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/graphs/kaiju-graph-light.svg" />
+    <img alt="A pixel-art kaiju stomps through a city where each building is a week of my contributions" src="https://raw.githubusercontent.com/Damox101za/damox101za/graphs/kaiju-graph-dark.svg" />
   </picture>
 </p>
 
@@ -108,9 +108,9 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/network-output/network-graph-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/network-output/network-graph-light.svg" />
-    <img alt="My contributions as a network: a data packet travels from a core switch through each active day, lighting it up" src="https://raw.githubusercontent.com/Damox101za/damox101za/network-output/network-graph-dark.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/graphs/network-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/graphs/network-graph-light.svg" />
+    <img alt="My contributions as a network: a data packet travels from a core switch through each active day, lighting it up" src="https://raw.githubusercontent.com/Damox101za/damox101za/graphs/network-graph-dark.svg" />
   </picture>
 </p>
 

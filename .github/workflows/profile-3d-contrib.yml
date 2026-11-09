@@ -1,12 +1,14 @@
 name: GitHub 3D Contribution Graph
 
+# Switched off: the 3D graph was replaced by the kaiju graph in the README.
+# To turn it back on, restore the schedule and push triggers:
+#   schedule:
+#     - cron: "0 18 * * *"   # Runs daily at 18:00 UTC
+#   push:
+#     branches:
+#       - main
 on:
-  schedule:
-    - cron: "0 18 * * *"   # Runs daily at 18:00 UTC
-  workflow_dispatch:         # Allows manual trigger from GitHub Actions tab
-  push:
-    branches:
-      - main
+  workflow_dispatch:         # Manual runs only, from the GitHub Actions tab
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true

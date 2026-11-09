@@ -1,4 +1,4 @@
-name: Network Contribution Graph
+name: Profile Graphs (Network + Kaiju)
 
 on:
   schedule:
@@ -11,11 +11,11 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    name: Generate Network Contribution Graph
+    name: Generate network and kaiju graphs
     timeout-minutes: 10
 
     permissions:
-      contents: write        # Required to push the SVGs to the network-output branch
+      contents: write        # Required to push the SVGs to the graphs branch
 
     steps:
       - uses: actions/checkout@v4
@@ -23,16 +23,18 @@ jobs:
       - name: Build network SVGs from contribution data
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: python3 .github/scripts/network_graph.py "${{ github.repository_owner }}" dist
+        run: |
+          python3 .github/scripts/network_graph.py "${{ github.repository_owner }}" dist
+          python3 .github/scripts/kaiju_graph.py "${{ github.repository_owner }}" dist
 
-      - name: Publish SVGs to the network-output branch
+      - name: Publish SVGs to the graphs branch
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           cd dist
-          git init -q -b network-output
+          git init -q -b graphs
           git config user.email "damox101za@gmail.com"
           git config user.name "Damox101za"
           git add -A
-          git commit -q -m "Update network contribution graph"
-          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" network-output
+          git commit -q -m "Update profile graphs"
+          git push --force "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git" graphs
