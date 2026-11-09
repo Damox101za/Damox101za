@@ -37,13 +37,6 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
 
 <div align="center">
 
-#### 🌐 Networking
-
-<img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="UniFi"/>
-<img src="https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper"/>
-<img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco NetAcad"/>
-<img src="https://img.shields.io/badge/Fibre%20%2F%20SFP-F59E0B?style=for-the-badge" alt="Fibre / SFP"/>
-
 #### 🖥️ Hardware & Endpoint
 
 <img src="https://img.shields.io/badge/Dell-007DB8?style=for-the-badge&logo=dell&logoColor=white" alt="Dell"/>
@@ -112,6 +105,13 @@ open_to:     Tier 3 / Senior Technical Support, corporate & FinTech, Johannesbur
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Damox101za/damox101za/graphs/network-graph-light.svg" />
     <img alt="My contributions as a network: a data packet travels from a core switch through each active day, lighting it up" src="https://raw.githubusercontent.com/Damox101za/damox101za/graphs/network-graph-dark.svg" />
   </picture>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/UniFi-0559C9?style=for-the-badge&logo=ubiquiti&logoColor=white" alt="UniFi"/>
+  <img src="https://img.shields.io/badge/Juniper-84B135?style=for-the-badge&logo=junipernetworks&logoColor=white" alt="Juniper"/>
+  <img src="https://img.shields.io/badge/Cisco%20NetAcad-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco NetAcad"/>
+  <img src="https://img.shields.io/badge/Fibre%20%2F%20SFP-F59E0B?style=for-the-badge" alt="Fibre / SFP"/>
 </p>
 
 <!-- Pac-Man graph hidden for now. Remove these comment markers to show it again.

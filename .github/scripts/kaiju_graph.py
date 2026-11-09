@@ -20,7 +20,7 @@ from pathlib import Path
 
 COL, BW = 14, 11            # building pitch and width
 FLOOR, FGAP = 6, 1          # floor height and gap between floors
-LEFT = 24
+LEFT = 45                   # matches the network graph width (832px)
 GROUND = 132                # y of the street
 PX = 5                      # kaiju pixel size
 WALK_S, HOLD_S, REBUILD_S = 18.0, 2.0, 1.5
